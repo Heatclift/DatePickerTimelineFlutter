@@ -74,6 +74,6 @@ Author
 
 Contributors
 ------------
-* [Vivek Kaushik](https://github.com/iamvivekkaushik/
+* [VivekKaushik] (https://github.com/iamvivekkaushik/
 * [BradInTheUSA](https://github.com/bradintheusa)
 * [Roger](https://github.com/rogermedeirosdasilva)
