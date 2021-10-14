@@ -69,10 +69,11 @@ DatePicker(
 Author
 ------
 
-* [Vivek Kaushik](https://github.com/iamvivekkaushik/)
+* [Herbert Calmerin](https://github.com/Heatclift)
 
 
 Contributors
 ------------
+* [Vivek Kaushik](https://github.com/iamvivekkaushik/
 * [BradInTheUSA](https://github.com/bradintheusa)
 * [Roger](https://github.com/rogermedeirosdasilva)
