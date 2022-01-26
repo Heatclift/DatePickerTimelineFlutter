@@ -65,13 +65,6 @@ DatePicker(
     this.locale = "en_US",
 }) : super(key: key);
 ```
-
-Author
-------
-
-* [Herbert Calmerin](https://github.com/Heatclift)
-
-
 Contributors
 ------------
 * [VivekKaushik](https://github.com/iamvivekkaushik)
